@@ -1,0 +1,6 @@
+{
+  "name": "Invexa",
+  "description": "Secure, premium investment platform featuring local wallets, product subscriptions, lockups, transaction history, referral system, and admin controls.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
